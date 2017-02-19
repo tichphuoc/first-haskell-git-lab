@@ -1,4 +1,4 @@
--- submitted by TichPhuoc
+-- submitted by ParickTran
 module Solve_Quadratic
     where
 
